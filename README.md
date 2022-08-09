@@ -14,5 +14,3 @@ VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/MjY1ZWE3MjBiOWY5
 # Thumbnails
 ## UI
 ![image](https://media.discordapp.net/attachments/976847050790539264/976969764431876096/unknown.png)
-
-***DISCORD***: discord.gg/msBjh2MpF3
